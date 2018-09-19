@@ -1396,55 +1396,55 @@ The entered ID is already in use in the system. Enter a different value
 </nodes>
 </param>
 </param>
- <param name="MobileBankSettings" description="Настройки для подключения МБ в МП">
-    <type>list</type>
-    <nodes>
-        <node id="mobile.sberbank.ru">
-             <mobileBankFromSetting>true</mobileBankFromSetting>
-             <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
-             <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
-        </node>
-      <node id="ift-node1.testonline.sberbank.ru">
-             <mobileBankFromSetting>true</mobileBankFromSetting>
-             <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
-             <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
-        </node>
-      <node id="ift-node2.testonline.sberbank.ru">
-             <mobileBankFromSetting>true</mobileBankFromSetting>
-             <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
-             <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
-        </node>
-      <node id="ift-node1-mp.testonline.sberbank.ru">
-             <mobileBankFromSetting>true</mobileBankFromSetting>
-             <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
-             <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
-        </node>
-      <node id="ift-node2-mp.testonline.sberbank.ru">
-             <mobileBankFromSetting>true</mobileBankFromSetting>
-             <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
-             <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
-        </node>
-     </nodes>
+<param name="MobileBankSettings" description="Настройки для подключения МБ в МП">
+<type>list</type>
+<nodes>
+<node id="mobile.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+</node>
+</nodes>
 </param>
- param name="NotificationSettingsOwn" description="Включение раздела Уведомления в настройках МП">
-    <type>list</type>
-    <nodes>
-        <node id="mobile.sberbank.ru">
-            <NotificationSettingsOwn>true</NotificationSettingsOwn>
-        </node>
-      <node id="ift-node1.testonline.sberbank.ru">
-            <NotificationSettingsOwn>true</NotificationSettingsOwn>
-        </node>
-      <node id="ift-node2.testonline.sberbank.ru">
-            <NotificationSettingsOwn>true</NotificationSettingsOwn>
-        </node>
-      <node id="ift-node1-mp.testonline.sberbank.ru">
-            <NotificationSettingsOwn>true</NotificationSettingsOwn>
-        </node>
-      <node id="ift-node2-mp.testonline.sberbank.ru">
-            <NotificationSettingsOwn>true</NotificationSettingsOwn>
-        </node>
-     </nodes>
+<param name="NotificationSettingsOwn" description="Включение раздела Уведомления в настройках МП">
+<type>list</type>
+<nodes>
+<node id="mobile.sberbank.ru">
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
+</node>
+</nodes>
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
