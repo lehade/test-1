@@ -1426,36 +1426,18 @@ The entered ID is already in use in the system. Enter a different value
 </node>
 </nodes>
 </param>
-<param name="NotificationSettingsOwn" description="Включение раздела Уведомления в настройках МП">
-<type>list</type>
-<nodes>
-<node id="mobile.sberbank.ru">
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
-</node>
-<node id="ift-node1.testonline.sberbank.ru">
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
-</node>
-<node id="ift-node2.testonline.sberbank.ru">
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
-</node>
-<node id="ift-node1-mp.testonline.sberbank.ru">
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
-</node>
-<node id="ift-node2-mp.testonline.sberbank.ru">
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
-</node>
-</nodes>
-</param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -1463,26 +1445,32 @@ The entered ID is already in use in the system. Enter a different value
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 </nodes>
 </param>
