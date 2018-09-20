@@ -1515,7 +1515,7 @@ The entered ID is already in use in the system. Enter a different value
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <pushAlertEnabled>true</pushAlertEnabled>
-<efsMobileBank>true</efsMobileBank>
+<efsMobileBank>false</efsMobileBank>
 </node> 
  <node id="ift-node2-mp.testonline.sberbank.ru">
 <pushAlertEnabled>true</pushAlertEnabled>
