@@ -1415,7 +1415,7 @@ The entered ID is already in use in the system. Enter a different value
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
-<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromSetting>true</mobileBankFromSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 </node>
@@ -1465,7 +1465,7 @@ The entered ID is already in use in the system. Enter a different value
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
+<NotificationSettingsOwn>false</NotificationSettingsOwn>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
