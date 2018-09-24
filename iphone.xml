@@ -4075,7 +4075,16 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <node id="mobile.sberbank.ru">
 <enabled>true</enabled>
 </node>
-<node id="greenfield1.online.sberbank.ru">
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
 <enabled>true</enabled>
 </node>
 </nodes>
