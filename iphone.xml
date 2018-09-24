@@ -2000,6 +2000,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -2053,6 +2054,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -2106,6 +2108,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -2159,6 +2162,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="10.21.152.7">
 <coreQR>true</coreQR>
