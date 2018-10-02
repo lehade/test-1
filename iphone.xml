@@ -54,6 +54,7 @@
 <charity>false</charity>
 </node>
 </nodes>
+ 
 </param>
 <param name="DebitCardAppMP" description="Заказ дебетовых карт">
 <type>service</type>
@@ -181,6 +182,52 @@
 <ufshistory>true</ufshistory>
 <digitalcardshow>true</digitalcardshow>
 <ikaotransliteration>false</ikaotransliteration>
+</node>
+</nodes>
+</param>
+ <node id="ift-node1-mp.testonline.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>false</disabledPermissions>
+</node>
+<node id="mobile.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="10.21.152.7">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="node0.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="node1.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="node2.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="node3.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
+</node>
+<node id="node4.online.sberbank.ru">
+<extendedPermissionEnabled>true</extendedPermissionEnabled>
+<disabledPermissions>true</disabledPermissions>
 </node>
 </nodes>
 </param>
