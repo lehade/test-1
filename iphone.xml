@@ -2527,7 +2527,7 @@ The entered ID is already in use in the system. Enter a different value
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>false</FastLoginApp>
 <PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
-<productNavigationBarMod>0</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 <IsFromAddrBook>true</IsFromAddrBook>
 <InstantApp>true</InstantApp>
 <InstantAppV2>true</InstantAppV2>
