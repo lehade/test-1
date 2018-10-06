@@ -2527,7 +2527,7 @@ The entered ID is already in use in the system. Enter a different value
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>false</FastLoginApp>
 <PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
-<productNavigationBarMod>3</productNavigationBarMod>
+<productNavigationBarMod>0</productNavigationBarMod>
 <IsFromAddrBook>true</IsFromAddrBook>
 <InstantApp>true</InstantApp>
 <InstantAppV2>true</InstantAppV2>
@@ -5160,13 +5160,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <enabled>true</enabled>
 </level>
 <level id="showBagePreLogin">
-<enabled>false</enabled>
+<enabled>true</enabled>
 </level>
 <level id="showBageOnAppIcon">
 <enabled>true</enabled>
 </level>
 <level id="showBadgePostLoginTabbar">
-<enabled>false</enabled>
+<enabled>true</enabled>
 </level>
 <level id="showBadgePostLoginNavBar">
 <enabled>true</enabled>
