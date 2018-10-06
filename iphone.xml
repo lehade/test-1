@@ -5128,7 +5128,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="SBOLBage" description="">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 <nodes>
 <node id="mobile.sberbank.ru">
 <enabled>true</enabled>
