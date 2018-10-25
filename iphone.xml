@@ -5510,12 +5510,12 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
@@ -5525,7 +5525,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
