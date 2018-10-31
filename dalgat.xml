@@ -2863,7 +2863,7 @@
 		    <useMobileBankExtendedRequests>
                     <version from="8.5" value="true"/>
                     </useMobileBankExtendedRequests>
-		    <enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
+		    <enableChangePhoneNumberInMB>false</enableChangePhoneNumberInMB>
                 </node>
                 <node id="ift-node1.testonline.sberbank.ru">
                     <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
