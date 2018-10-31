@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<configuration>
+	<params>
+		<param name="instant_app" description="Параметр, включающий Быстрый вход">
+         <type>list</type>
+         <enabled>true</enabled>
+         <nodes>
+            <node id="mobile.sberbank.ru" description="Стенд ПСИ">
+             <enabled>true</enabled>
+            </node> 
+            <node id="node0.online.sberbank.ru">
+             <enabled>true</enabled>
+            </node> 
+            <node id="node1.online.sberbank.ru">
+             <enabled>true</enabled>
+            </node> 
+            <node id="node2.online.sberbank.ru">
+             <enabled>true</enabled>
+            </node> 
+            <node id="node3.online.sberbank.ru">
+             <enabled>true</enabled>
+            </node> 
+            <node id="node4.online.sberbank.ru">
+             <enabled>true</enabled>
+            </node> 
+            <node id="greenfield1.online.sberbank.ru">
+             <enabled>true</enabled>
+            </node> 
+         </nodes>  
+        </param>
+		<param name="newRegistration" description="">
+			<enabled>false</enabled>
+		</param>
+		<param name="newDesign" description="">
+			<enabled>false</enabled>
+		</param>
+	</params>
+</configuration>
+
