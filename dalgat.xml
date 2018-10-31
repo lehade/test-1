@@ -2860,10 +2860,10 @@
                     <showNotificationBanner>
                     <version from="8.4" value="true"/>
                     </showNotificationBanner>
-					<useMobileBankExtendedRequests>
+		    <useMobileBankExtendedRequests>
                     <version from="8.5" value="true"/>
                     </useMobileBankExtendedRequests>
-					<enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
+		    <enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
                 </node>
                 <node id="ift-node1.testonline.sberbank.ru">
                     <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
@@ -2966,6 +2966,7 @@
 		</param>
       	<param name="PushPermissions" description="Êîíñîëèäèðîâàííûå âêëþ÷àòåëè äëÿ ôóíêöèîíàëà êîìàíäû Push">
             <type>list</type>
+		<notificationEntryPointIfNoInternet>true</notificationEntryPointIfNoInternet>
 			   <nodes>
                 <node id="mobile.sberbank.ru">
 				    <excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -2997,6 +2998,12 @@
 					<showUniversalPushNotification>
                     <version from="8.7" value="true"/>
                     </showUniversalPushNotification>
+		   <snackBarWithLastTPU>
+                   <version from="8.7" value="true"/>
+                   </snackBarWithLastTPU>
+                   <snackBarIgnoreTPUOlderDays>14</snackBarIgnoreTPUOlderDays>
+                   <snackBarDisplayTime>2</snackBarDisplayTime>
+                   <preloginTargetTapNotificationEnabled>true</preloginTargetTapNotificationEnabled>
 		   </node>
                 <node id="ift-node1.testonline.sberbank.ru">
 				    <excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
