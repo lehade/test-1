@@ -2921,8 +2921,7 @@
 					<useMobileBankExtendedRequests>
                     <version from="8.5" value="true"/>
                     </useMobileBankExtendedRequests>
-					<enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
-                </node>
+		 </node>
                 <node id="ift-node2-mp.testonline.sberbank.ru">
                     <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
                     <cacheEnabled>true</cacheEnabled>
@@ -2938,10 +2937,9 @@
                     <showNotificationBanner>
                     <version from="8.4" value="true"/>
                     </showNotificationBanner>
-					<useMobileBankExtendedRequests>
+		    <useMobileBankExtendedRequests>
                     <version from="8.5" value="true"/>
                     </useMobileBankExtendedRequests>
-					<enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
                 </node>
               	<node id="node4.online.sberbank.ru">
                     <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
