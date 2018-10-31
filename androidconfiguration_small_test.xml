@@ -3,10 +3,10 @@
 	<params>
 		<param name="instant_app" description="Параметр, включающий Быстрый вход">
          <type>list</type>
-         <enabled>true</enabled>
+         <enabled>false</enabled>
          <nodes>
             <node id="mobile.sberbank.ru" description="Стенд ПСИ">
-             <enabled>true</enabled>
+             <enabled>false</enabled>
             </node> 
             <node id="node0.online.sberbank.ru">
              <enabled>true</enabled>
