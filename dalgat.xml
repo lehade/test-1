@@ -3002,6 +3002,12 @@
                    <snackBarIgnoreTPUOlderDays>14</snackBarIgnoreTPUOlderDays>
                    <snackBarDisplayTime>2</snackBarDisplayTime>
                    <preloginTargetTapNotificationEnabled>true</preloginTargetTapNotificationEnabled>
+	           <cardNotificationWithSenderNameAndComment>
+                   <version from="9.0" value="true"/>
+                   </cardNotificationWithSenderNameAndComment>
+                   <cardNotificationTapShowsDialog>
+                   <version from="9.0" value="true"/>
+                   </cardNotificationTapShowsDialog>
 		   </node>
                 <node id="ift-node1.testonline.sberbank.ru">
 				    <excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3086,6 +3092,12 @@
 					<showUniversalPushNotification>
                     <version from="8.7" value="true"/>
                     </showUniversalPushNotification>
+		    <cardNotificationWithSenderNameAndComment>
+                    <version from="9.0" value="true"/>
+                    </cardNotificationWithSenderNameAndComment>
+                    <cardNotificationTapShowsDialog>
+                    <version from="9.0" value="true"/>
+                    </cardNotificationTapShowsDialog>
 		        </node>
                 <node id="ift-node2-mp.testonline.sberbank.ru">
 				    <excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3116,6 +3128,12 @@
 					<showUniversalPushNotification>
                     <version from="8.7" value="true"/>
                     </showUniversalPushNotification>
+		    <cardNotificationWithSenderNameAndComment>
+                    <version from="9.0" value="true"/>
+                    </cardNotificationWithSenderNameAndComment>
+                    <cardNotificationTapShowsDialog>
+                    <version from="9.0" value="true"/>
+                    </cardNotificationTapShowsDialog>
 	            </node>
                 <node id="node4.online.sberbank.ru">
                     <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
