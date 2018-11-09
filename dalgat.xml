@@ -2907,7 +2907,7 @@
                     <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
                     <cacheEnabled>true</cacheEnabled>
                     <showMobileBankStatusOnCardList>true</showMobileBankStatusOnCardList>
-                    <mobileBankFromSettings>true</mobileBankFromSettings>
+                    <mobileBankFromSettings>false</mobileBankFromSettings>
                     <turnOffFullTariffEnabled>true</turnOffFullTariffEnabled>
                     <turnOffFullTariffEnabled83>true</turnOffFullTariffEnabled83>
                     <efsMobileBank82>true</efsMobileBank82>
@@ -2926,7 +2926,7 @@
                     <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
                     <cacheEnabled>true</cacheEnabled>
                     <showMobileBankStatusOnCardList>true</showMobileBankStatusOnCardList>
-                    <mobileBankFromSettings>true</mobileBankFromSettings>
+                    <mobileBankFromSettings>false</mobileBankFromSettings>
                     <turnOffFullTariffEnabled>true</turnOffFullTariffEnabled>
                     <turnOffFullTariffEnabled83>true</turnOffFullTariffEnabled83>
                     <efsMobileBank82>true</efsMobileBank82>
