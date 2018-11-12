@@ -3869,7 +3869,7 @@
                   	<snackBarIgnoreTPUOlderDays>14</snackBarIgnoreTPUOlderDays>
                   	<snackBarDisplayTime>2</snackBarDisplayTime>
 			<cardNotificationTapShowsDialog>
-                    <version from="9.0" value="true"/>
+                    <version from="9.0" value="false"/>
                 </cardNotificationTapShowsDialog>
 			<cardNotificationWithSenderNameAndComment>
                     <version from="9.0" value="true"/>
