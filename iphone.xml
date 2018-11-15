@@ -5312,6 +5312,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
+<pushHistoryHeadBatchSize>30<pushHistoryHeadBatchSize/> 
+<pushHistoryScrollBatchSize>15<pushHistoryScrollBatchSize/>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5332,6 +5334,9 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="mobile.sberbank.ru">
+<pushHistoryRequest>true</pushHistoryRequest> 
+<forcedHistoryQuery>true<forcedHistoryQuery> 
+<forcedHistoryQueryIfNoHistory>true<forcedHistoryQueryIfNoHistory>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -5365,6 +5370,9 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
+<pushHistoryRequest>true</pushHistoryRequest> 
+<forcedHistoryQuery>true<forcedHistoryQuery> 
+<forcedHistoryQueryIfNoHistory>true<forcedHistoryQueryIfNoHistory>
 <buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -5377,6 +5385,9 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+<pushHistoryRequest>true</pushHistoryRequest> 
+<forcedHistoryQuery>true<forcedHistoryQuery> 
+<forcedHistoryQueryIfNoHistory>true<forcedHistoryQueryIfNoHistory> 
 <buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
