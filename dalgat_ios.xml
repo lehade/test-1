@@ -6486,7 +6486,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
-<cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
+<cardNotificationWithSenderNameAndComment>false</cardNotificationWithSenderNameAndComment>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6506,7 +6506,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
-<cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
+<cardNotificationWithSenderNameAndComment>false</cardNotificationWithSenderNameAndComment>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
