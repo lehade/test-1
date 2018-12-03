@@ -6500,7 +6500,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
-<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<showNotificationEntryPointTargetTapPostlogin>false</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
