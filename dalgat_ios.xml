@@ -6331,6 +6331,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 </node>
 <node id="node0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
