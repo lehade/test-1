@@ -6537,6 +6537,27 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
+<node id="ift-node5-mp.testonline.sberbank.ru">
+<showUniversalPushNotification>true</showUniversalPushNotification>
+<routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
+<cardNotificationWithSenderNameAndComment>false</cardNotificationWithSenderNameAndComment>
+<buttonToPostLogin>true</buttonToPostLogin>
+<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
+<MessagesWithExpired>true</MessagesWithExpired>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>false</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+</node>
 </nodes>
 <bestActions>
 <actions>
@@ -6771,6 +6792,12 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+</node>
+<node id="ift-node5-mp.testonline.sberbank.ru">
+<mobileBankChangePhone>true</mobileBankChangePhone>
 <mobileBankFromSetting>true</mobileBankFromSetting>
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
