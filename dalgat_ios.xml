@@ -82,6 +82,9 @@
 <node id="ift-node2-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 2 (мобильный)">
 <distanceMarking>true</distanceMarking>
 </node>
+<node id="ift-node5-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 5 (мобильный)">
+<distanceMarking>true</distanceMarking>
+</node>
 </nodes>
 </param>
 <param name="RecommendedDebt" description="Смарт Счета">
@@ -2128,6 +2131,10 @@ The entered ID is already in use in the system. Enter a different value
 <efsMobileBank>true</efsMobileBank>
 <nodes>
 <node id="ift-node1.testonline.sberbank.ru">
+<efsMobileBank>true</efsMobileBank>
+</node>
+<node id="ift-node5-mp.testonline.sberbank.ru">
+<pushAlertEnabled>true</pushAlertEnabled>
 <efsMobileBank>true</efsMobileBank>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
