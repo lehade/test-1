@@ -6428,6 +6428,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="mobile.sberbank.ru">
+<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
 <showUniversalPushNotification>true</showUniversalPushNotification>
@@ -6496,6 +6497,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
+<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <cardNotificationWithSenderNameAndComment>false</cardNotificationWithSenderNameAndComment>
@@ -6517,6 +6519,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
