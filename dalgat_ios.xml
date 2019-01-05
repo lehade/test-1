@@ -6499,7 +6499,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <newPushProcessingEnabled>true</newPushProcessingEnabled>
-<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
+<webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <cardNotificationWithSenderNameAndComment>false</cardNotificationWithSenderNameAndComment>
@@ -6522,7 +6522,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <newPushProcessingEnabled>true</newPushProcessingEnabled>
-<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
+<webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
