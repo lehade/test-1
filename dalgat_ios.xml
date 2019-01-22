@@ -6517,6 +6517,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
