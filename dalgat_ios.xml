@@ -6308,6 +6308,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryScrollBatchSize>50</pushHistoryScrollBatchSize>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6324,6 +6325,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="greenfield1.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6341,6 +6343,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 </node>
 <node id="node0.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6357,6 +6360,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="node1.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6373,6 +6377,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="node2.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6389,6 +6394,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="node3.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6402,6 +6408,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="node4.online.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6415,6 +6422,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6428,6 +6436,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="mobile.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>true</newPushProccessing>
 <webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
@@ -6498,6 +6507,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>false</newPushProccessing>
 <webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <showUniversalPushNotification>true</showUniversalPushNotification>
@@ -6522,6 +6532,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>true</newPushProccessing>
 <webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <showUniversalPushNotification>true</showUniversalPushNotification>
