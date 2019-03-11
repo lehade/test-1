@@ -6342,8 +6342,14 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 </node>
-<node id="node0.online.sberbank.ru">
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<node id="ift-node5-mp.testonline.sberbank.ru">
+<nativePushProcessingEnabled>true</nativePushProcessingEnabled>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
+<newPushProccessing>true</newPushProccessing>
+<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
+<routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
+<cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
+<showUniversalPushNotification>true</showUniversalPushNotification>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6355,9 +6361,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
-<pushHistoryRequest>true</pushHistoryRequest>
+<getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="node1.online.sberbank.ru">
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
@@ -6446,7 +6453,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
-<NotificationSettingsOwn>false</NotificationSettingsOwn>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
@@ -6459,6 +6466,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
+  
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
