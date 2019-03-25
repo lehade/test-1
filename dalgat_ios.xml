@@ -2172,7 +2172,7 @@ The entered ID is already in use in the system. Enter a different value
 </node>
 <node id="mobile.sberbank.ru">
 <pushAlertEnabled>true</pushAlertEnabled>
-<efsMobileBank>true</efsMobileBank>
+<efsMobileBank>false</efsMobileBank>
 </node>
 </nodes>
 </param>
@@ -6457,7 +6457,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
-<showBestActionsInCuteCheque>false</showBestActionsInCuteCheque>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>false</newRejectAuthorizeAlert>
