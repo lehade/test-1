@@ -6593,6 +6593,11 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <bestActions name="ЖКХ и домашний телефон" link="sberbankonline://payments/jkh"/>
 <bestActions name="Мобильная связь" link="sberbankonline://payments/mobile-phone"/>
 </actions>
+<actions96>
+<bestActions name="Перевод клиенту Сбербанка" link="sberbankonline://payments/p2p-by-phone-number"/>
+<bestActions name="ЖКХ и домашний телефон" link="sberbankonline://payments/jkh"/>
+<bestActions name="Мобильная связь" link="sberbankonline://payments/mobile-phone"/>
+</actions96>
 <operationAmount>1000</operationAmount>
 </bestActions>
 </param>
