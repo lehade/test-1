@@ -6457,7 +6457,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
-<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showBestActionsInCuteCheque>false</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>false</newRejectAuthorizeAlert>
