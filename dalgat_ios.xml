@@ -6302,6 +6302,31 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <type>setting</type>
 <enabled>true</enabled>
 </param>
+<param name="VoiceAssistantPermissions" description="Голосовой помощник">
+<type>list</type>
+<enabled>true</enabled>
+<CountRepeat>3</CountRepeat>
+<nodes>
+<node id="greenfield1.online.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+<node id="mobile.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+</nodes>
+</param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
 <pushHistoryHeadBatchSize>50</pushHistoryHeadBatchSize>
