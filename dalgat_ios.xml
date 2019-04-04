@@ -6314,7 +6314,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
 </node>
 <node id="mobile.sberbank.ru">
-<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<NavigationBarEntryPointEnabled>false</NavigationBarEntryPointEnabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
