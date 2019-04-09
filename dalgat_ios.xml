@@ -6474,6 +6474,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="mobile.sberbank.ru">
+<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <nativePushProcessingEnabled>true</nativePushProcessingEnabled>
 <transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>true</newPushProccessing>
@@ -6547,6 +6548,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
+<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>false</newPushProccessing>
 <webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
@@ -6572,6 +6574,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>true</newPushProccessing>
 <webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
