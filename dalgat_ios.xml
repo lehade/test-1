@@ -3291,8 +3291,14 @@ The entered ID is already in use in the system. Enter a different value
 <enabled>true</enabled>
 <value>2000</value>
 </param>
+<param name="SpecialTutorialUID" description="Туториалы из списка 'специальные' и должны показываться при каждой регистрации">
+<tutorials>
+<tutorial UID="TransactionPushAutoTransferKey"/>
+</tutorials>
+</param>
 <param name="AllowedTutorialUID" description="Туториалы разрешенные к показу">
 <tutorials>
+<tutorial UID="TransactionPushAutoTransferKey"/>
 <tutorial UID="TutorialAnalyticsAgreement"/>
 <tutorial UID="PostcardsUGCTutorialMessengerKey"/>
 <tutorial UID="PostcardsTutorialMessengerKey"/>
