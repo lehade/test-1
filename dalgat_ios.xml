@@ -6315,21 +6315,33 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <nodes>
 <node id="greenfield1.online.sberbank.ru">
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
 </node>
 <node id="mobile.sberbank.ru">
-<NavigationBarEntryPointEnabled>false</NavigationBarEntryPointEnabled>
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
 </node>
 </nodes>
 </param>
