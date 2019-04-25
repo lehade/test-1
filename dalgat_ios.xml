@@ -6486,6 +6486,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="mobile.sberbank.ru">
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <tutorialAboutAutomaticTransferTPUSettings>false</tutorialAboutAutomaticTransferTPUSettings>
 <nativePushProcessingEnabled>true</nativePushProcessingEnabled>
 <transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
