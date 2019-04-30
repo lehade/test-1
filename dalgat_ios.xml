@@ -6332,13 +6332,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
-<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<NavigationBarEntryPointEnabled>false</NavigationBarEntryPointEnabled>
 <SSLPinningEnabled>true</SSLPinningEnabled>
 <VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
 <targetTapVoice>true</targetTapVoice>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<NavigationBarEntryPointEnabled>false</NavigationBarEntryPointEnabled>
 <SSLPinningEnabled>true</SSLPinningEnabled>
 <VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
 <targetTapVoice>true</targetTapVoice>
