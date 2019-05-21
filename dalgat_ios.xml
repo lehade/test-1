@@ -6351,6 +6351,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryScrollBatchSize>50</pushHistoryScrollBatchSize>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
+<enableDeletePushMessage>true</enableDeletePushMessage>
+<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferMethod>manual</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethodTC>true</TransferMethodTC>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
@@ -6368,6 +6375,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="greenfield1.online.sberbank.ru">
+<enableDeletePushMessage>true</enableDeletePushMessage>
+<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferMethod>manual</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethodTC>true</TransferMethodTC>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
@@ -6386,6 +6400,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 </node>
 <node id="ift-node5-mp.testonline.sberbank.ru">
+<enableDeletePushMessage>true</enableDeletePushMessage>
+<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferMethod>manual</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethodTC>true</TransferMethodTC>
 <nativePushProcessingEnabled>true</nativePushProcessingEnabled>
 <transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>true</newPushProccessing>
@@ -6486,6 +6507,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="mobile.sberbank.ru">
+<enableDeletePushMessage>true</enableDeletePushMessage>
+<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferMethod>manual</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethodTC>true</TransferMethodTC>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <tutorialAboutAutomaticTransferTPUSettings>false</tutorialAboutAutomaticTransferTPUSettings>
 <nativePushProcessingEnabled>true</nativePushProcessingEnabled>
@@ -6561,6 +6589,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
+<enableDeletePushMessage>true</enableDeletePushMessage>
+<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferMethod>manual</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethodTC>true</TransferMethodTC>
 <tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>false</newPushProccessing>
@@ -6587,6 +6622,13 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+<enableDeletePushMessage>true</enableDeletePushMessage>
+<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferMethod>auto</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethodTC>true</TransferMethodTC>
 <tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <newPushProccessing>true</newPushProccessing>
