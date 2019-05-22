@@ -6511,7 +6511,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <TransferOrTurnOn>true</TransferOrTurnOn>
 <TransferMethod>manual</TransferMethod>
 <TransferMethodAA>manual</TransferMethodAA>
-<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TurnOnMethodNC>auto</TurnOnMethodNC>
 <TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
@@ -6624,9 +6624,9 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <enableDeletePushMessage>true</enableDeletePushMessage>
 <TransferOrTurnOn>true</TransferOrTurnOn>
-<TransferMethod>auto</TransferMethod>
+<TransferMethod>manual</TransferMethod>
 <TransferMethodAA>manual</TransferMethodAA>
-<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TurnOnMethodNC>auto</TurnOnMethodNC>
 <TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 <tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
