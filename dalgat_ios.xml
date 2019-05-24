@@ -6347,8 +6347,6 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
-<pushHistoryHeadBatchSize>50</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>50</pushHistoryScrollBatchSize>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <enableDeletePushMessage>true</enableDeletePushMessage>
@@ -6508,7 +6506,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </node>
 <node id="mobile.sberbank.ru">
 <enableDeletePushMessage>true</enableDeletePushMessage>
-<TransferOrTurnOn>true</TransferOrTurnOn>
+<TransferOrTurnOn>false</TransferOrTurnOn>
 <TransferMethod>manual</TransferMethod>
 <TransferMethodAA>manual</TransferMethodAA>
 <TurnOnMethodNC>auto</TurnOnMethodNC>
@@ -6539,7 +6537,6 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
-  
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
